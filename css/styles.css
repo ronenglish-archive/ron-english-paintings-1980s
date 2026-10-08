@@ -822,3 +822,25 @@ html body .work-layout .literature-source-images .literature-source-link img {
   }
 }
 /* END GENERATED CLICKABLE WORK HERO CSS */
+
+/* RON PAINTINGS NOTES CARD STANDARD V1 */
+.notes-card{
+  max-width:800px;
+  margin:0 auto 2.5rem auto;
+  padding:22px;
+  background:#fff;
+  border:1px solid #e5e7eb;
+  border-radius:18px;
+  box-shadow:0 8px 26px rgba(0,0,0,.06);
+  text-align:center;
+}
+.notes-card h2{
+  margin:0 0 16px 0;
+  text-align:center;
+}
+.notes-card p{
+  max-width:65ch;
+  margin:.55rem auto;
+  line-height:1.65;
+  text-align:center;
+}

@@ -844,3 +844,11 @@ html body .work-layout .literature-source-images .literature-source-link img {
   line-height:1.65;
   text-align:center;
 }
+
+/* RON-1980S-PUBLICATION-FOOTER-V1 */
+.site-footer.ron-published-footer-center {
+  display: block;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+}
